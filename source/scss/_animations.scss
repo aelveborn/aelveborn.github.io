@@ -1,0 +1,4 @@
+.fadeIn {
+	@include mui-animation(fade);
+	animation-duration: 2s;
+}

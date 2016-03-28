@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'sen-regular';
+	src: url(../fonts/sen-regular.otf);
+}
+
+@font-face {
+	font-family: 'sen-bold';
+	src: url(../fonts/sen-bold.otf);
+}
+
+@font-face {
+	font-family: 'sen-extrabold';
+	src: url(../fonts/sen-extrabold.otf);
+}
+
+h1 {
+	font-family: 'sen-regular';
+}
+
+.font-bold {
+	font-family: 'sen-bold';
+}
+
+.font-extrabold {
+	font-family: 'sen-extrabold';
+}
